@@ -2,6 +2,16 @@
 
 ## Setup
 
+Clone the repository 
+
+```
+git clone https://github.com/ayushs1209/retrieval-augment-G.git
+cd retrieval-augment-G/
+
+```
+
+
+
 
 ```
 cd backend 
