@@ -17,6 +17,11 @@ cd retrieval-augment-G/
 cd backend 
 ```
 make a virtual environment and activate it
+```
+python -m venv venv
+source venv/bin/activate
+
+```
 
 Install requirements.txt
 
